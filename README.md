@@ -20,15 +20,7 @@ I build business systems, developer tooling, and AI-assisted engineering workflo
 
 ## Engineering focus
 
-Business systems · Software architecture · Developer tooling · AI-assisted software engineering · Automation · Linux / WSL environments · Writing environments
-
-## Selected stack
-
-Laravel · PHP · Vue · TypeScript · MariaDB · Redis · GitHub Actions · Linux · Arch Linux · WSL · Neovim · JetBrains tooling
-
-## Earlier work
-
-**[1w3j](https://github.com/j3w1/1w3j)** preserves an earlier generation of personal Linux workstation configuration, dotfiles, scripts, themes, package lists, and bootstrap tooling. Bloody Writer is the newer, maintained evolution of that idea.
+Business systems · Software architecture · Developer tooling · Automation · Linux / WSL environments · Writing environments
 
 ## Personal site
 

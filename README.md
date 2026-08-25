@@ -6,22 +6,6 @@ I build business systems, developer tooling, and AI-assisted engineering workflo
 
 [Personal site](https://j3w1.github.io/) · [Selected projects](https://j3w1.github.io/projects/) · [About](https://j3w1.github.io/about/)
 
-## Current work
-
-- **CE Systems** — an internal business operations platform for Casa Elida, covering areas such as retail, inventory, purchasing, imports and logistics, finance, and organizational workflows. Its high-level stack includes Laravel, PHP, Vue, TypeScript, and MariaDB.
-- **CE-GD** — a private engineering and governance project involving bounded AI-assisted review, evidence, and delivery control.
-- **[Bloody Writer](https://github.com/j3w1/bloody-writer)** — the maintained evolution of my terminal and workstation work: an Arch Linux environment for Windows WSL and Termux on Android.
-
-## Selected public work
-
-- **[Bloody Writer](https://github.com/j3w1/bloody-writer)** — a resumable writing and coding workspace built around Zsh, Neovim, tmux, WSL, and Termux.
-- **[1688toCSV](https://github.com/j3w1/1688toCSV)** — a focused Chrome extension that exports 1688.com order details into a clean CSV.
-- **[j3w1.github.io](https://github.com/j3w1/j3w1.github.io)** — the dependency-free source for my personal site.
-
-## Engineering focus
-
-Business systems · Software architecture · Developer tooling · Automation · Linux / WSL environments · Writing environments
-
 ## Personal site
 
 For a fuller view of my work, projects, and technical interests, visit **[j3w1.github.io](https://j3w1.github.io/)**.

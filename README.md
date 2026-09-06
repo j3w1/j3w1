@@ -28,12 +28,6 @@ I build the machinery behind dependable work: business platforms, developer envi
 
 Laravel · Vue · JavaScript · Python · Shell · Arch Linux · WSL · Termux · CI/CD · GitHub automation · AI-assisted engineering
 
-## Earlier public work
-
-<a href="https://github.com/j3w1/1w3j"><code>1w3j</code></a> preserves the earlier Linux workstation configuration, dotfiles, scripts, themes, package lists, and bootstrap tooling that precedes the current public workstation framework.
-
-<div align="center">
-
 [Personal site](https://j3w1.github.io/) · [Projects](https://j3w1.github.io/projects/) · [Writing & about](https://j3w1.github.io/about/)
 
 </div>

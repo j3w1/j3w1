@@ -10,23 +10,23 @@
 
 </div>
 
-I build the machinery behind dependable work: business platforms, developer environments, and delivery automation designed to be clear, secure, recoverable, and useful long after the first release.
+I build dependable systems at the intersection of business operations, developer experience, and design: platforms, control planes, and public-facing software designed to stay clear, secure, recoverable, and useful after the first release.
 
 ## Building now
 
+- <a href="https://theselfish.one"><code>The Self-Notion Site</code></a> — a TypeScript web experience for exploring the self, with a continually refined visual system and interaction design.
 - <a href="https://github.com/j3w1/casaelida.com"><code>CE Systems</code></a> — an internal operations platform for real business workflows.
-- <a href="https://github.com/j3w1/ce-gd-controller"><code>CE Governed Delivery</code></a> — isolated, evidence-driven controls for bounded AI-assisted delivery.
-- <a href="https://github.com/j3w1/ce-metadata-reconciler"><code>Metadata Reconciler</code></a> — deterministic, reviewable GitHub metadata operations.
+- <a href="https://github.com/j3w1/ce-metadata-reconciler"><code>Metadata Reconciler</code></a> — a deterministic GitHub metadata control plane for Casa Elida and CE Systems.
 
 ## Current public work
 
+- <a href="https://github.com/j3w1/theme"><code>j3w1 UI Theme Spec</code></a> — canonical design tokens, component rules, a generated visual specification, and machine-readable exports for people and agents.
 - <a href="https://github.com/j3w1/j3w1zsh"><code>j3w1zsh</code></a> — a portable, resumable Zsh workstation framework for native Arch Linux, Arch WSL 2, and Termux, with presets, themes, project workspaces, migration, and remote sessions.
-- <a href="https://github.com/j3w1/1688toCSV"><code>1688toCSV</code></a> — a focused Chrome extension that exports 1688.com order details into clean CSV files.
-- <a href="https://github.com/j3w1/j3w1.github.io"><code>j3w1.github.io</code></a> — the dependency-free source for this personal site and its public, Git-managed content.
+- <a href="https://github.com/j3w1/j3w1.github.io"><code>j3w1.github.io</code></a> — the dependency-free source for my personal site and its public, Git-managed content.
 
 ## Working with
 
-Laravel · Vue · JavaScript · Python · Shell · Arch Linux · WSL · Termux · CI/CD · GitHub automation · AI-assisted engineering
+TypeScript · Laravel · Vue · JavaScript · Python · Shell · Design systems · Arch Linux · WSL · Termux · CI/CD · GitHub automation · AI-assisted engineering
 
 [Personal site](https://j3w1.github.io/) · [Projects](https://j3w1.github.io/projects/) · [Writing & about](https://j3w1.github.io/about/)
 

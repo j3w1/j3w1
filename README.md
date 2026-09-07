@@ -14,8 +14,8 @@ I build dependable systems at the intersection of business operations, developer
 
 ## Building now
 
-- <a href="https://theselfish.one"><code>The Self-Notion Site</code></a> — a TypeScript web experience for exploring the self, with a continually refined visual system and interaction design.
 - <a href="https://github.com/j3w1/casaelida.com"><code>CE Systems</code></a> — an internal operations platform for real business workflows.
+- <a href="https://github.com/j3w1/ce-gd-controller"><code>CE Governed Delivery</code></a> — isolated, evidence-driven controls for bounded AI-assisted delivery.
 - <a href="https://github.com/j3w1/ce-metadata-reconciler"><code>Metadata Reconciler</code></a> — a deterministic GitHub metadata control plane for Casa Elida and CE Systems.
 
 ## Current public work

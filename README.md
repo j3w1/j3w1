@@ -8,10 +8,6 @@
 
 **Writer · software engineer · builder of durable systems**
 
-I design and ship dependable software for real work — from execution tooling and delivery controls to business platforms, developer environments, and coherent design systems.
-
-<a href="https://j3w1.github.io/">Website</a> · <a href="https://j3w1.github.io/projects/">Projects</a> · <a href="https://j3w1.github.io/about/">Writing &amp; about</a>
-
 </div>
 
 ## Building now

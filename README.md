@@ -8,7 +8,7 @@
 
 **Software engineer · writer · builder of durable systems**
 
-I make software for dependable work: execution tooling, business systems, developer environments, and design foundations that remain clear, recoverable, and useful beyond the first release.
+I build calm, dependable software for real work: governed execution tooling, business platforms, developer environments, and design systems with clear contracts, useful evidence, and long-lived foundations.
 
 <a href="https://j3w1.github.io/">Website</a> · <a href="https://j3w1.github.io/projects/">Projects</a> · <a href="https://j3w1.github.io/about/">Writing &amp; about</a>
 
@@ -16,16 +16,16 @@ I make software for dependable work: execution tooling, business systems, develo
 
 ## Building now
 
-- <a href="https://github.com/j3w1/orchestrate"><code>orchestrate</code></a> — governed, restartable orchestration for disciplined multi-agent software delivery on Orca.
+- <a href="https://github.com/j3w1/orchestrate"><code>orchestrate</code></a> — governed, restartable multi-agent delivery on Orca, with native task coordination, recoverable execution, and first-machine bootstrap.
 - <a href="https://github.com/j3w1/casaelida.com"><code>CE Systems</code></a> — an internal business platform built around durable, legible operational workflows.
-- <a href="https://github.com/j3w1/ce-metadata-reconciler"><code>Metadata Reconciler</code></a> — a deterministic control plane for reviewable GitHub metadata operations across CE Systems.
+- <a href="https://github.com/j3w1/ce-metadata-reconciler"><code>Metadata Reconciler</code></a> — deterministic, reviewable GitHub metadata operations for CE Systems.
 
 ## Current public work
 
-- <a href="https://github.com/j3w1/theme"><code>theme</code></a> — the canonical j3w1 design system: tokens, components, accessibility rules, ports, and machine-readable exports.
-- <a href="https://github.com/j3w1/j3w1.github.io"><code>j3w1.github.io</code></a> — a dependency-free personal site, writing archive, project index, and interactive i3-inspired desktop.
+- <a href="https://github.com/j3w1/theme"><code>theme</code></a> — the canonical j3w1 design system: accessible tokens, components, consumer ports, machine-readable exports, and verification-aware delivery.
+- <a href="https://github.com/j3w1/j3w1.github.io"><code>j3w1.github.io</code></a> — a dependency-free personal site, writing archive, project index, and interactive i3-inspired desktop with browser-tested interactions.
 - <a href="https://github.com/j3w1/j3w1zsh"><code>j3w1zsh</code></a> — a portable, resumable workstation framework for Arch Linux, Arch WSL 2, and Termux.
 
 ## Working with
 
-`Python` · `TypeScript` · `JavaScript` · `Laravel` · `Vue` · `Shell` · `Developer tooling` · `Systems design` · `Design systems` · `GitHub automation` · `CI/CD` · `Arch Linux` · `WSL` · `Termux` · `AI-assisted engineering`
+`Python` · `TypeScript` · `JavaScript` · `Laravel` · `Vue` · `Shell` · `Developer tooling` · `Systems design` · `Design systems` · `GitHub automation` · `CI/CD` · `Testing & verification` · `Arch Linux` · `WSL` · `Termux` · `AI-assisted engineering`

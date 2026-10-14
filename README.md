@@ -18,7 +18,7 @@ I build dependable software for real work: multi-agent coordination, operational
 
 - <a href="https://github.com/j3w1/pod"><code>pod</code></a> — turns an Orca coding session into the coordinator of a pod of Orcas, with issue-first execution and guided route approval.
 - <a href="https://github.com/j3w1/ce-signage"><code>CE Signage</code></a> — Windows 10 digital signage for Casa Elida cashier PCs, designed for an on-the-ground operating environment.
-- <a href="https://github.com/j3w1/ce-metadata-reconciler"><code>Metadata Reconciler</code></a> — deterministic, reviewable GitHub metadata operations across the CE portfolio.
+- <a href="https://github.com/j3w1/ce-meta"><code>CE Meta</code></a> — deterministic, reviewable GitHub metadata operations across the CE portfolio.
 
 ## Current public work
 
